@@ -1,1 +1,1 @@
-# sudokuweb..github.io
+# sudokuweb.github.io
